@@ -24,5 +24,5 @@ O layout do app é simples e funcional, com as imagens centralizadas e botões d
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/SlideShopper.git
+git clone https://github.com/henriquebdev/SlideShopper.git
 cd SlideShopper
