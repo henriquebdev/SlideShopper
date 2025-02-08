@@ -2,7 +2,7 @@
 
 **SlideShopper** é um aplicativo simples desenvolvido em **React Native** que permite aos usuários navegar entre imagens de produtos usando botões de navegação.
 
-![SlideShopper Screenshot](./src/img1.png)
+![SlideShopper Screenshot](./assets/SlideShopper.gif)
 
 ## 🚀 Funcionalidades
 
